@@ -6,3 +6,4 @@ venv/
 __pycache__/
 *.py[cod]
 .DS_Store
+week2_tool_use_log_failed.md
